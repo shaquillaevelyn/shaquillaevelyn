@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey hey 👋
 
 <!--
 **shaquillaevelyn/shaquillaevelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+###  I'm Shaquilla 📍 London, UK
+
+- 🏝 small island girl living and working on a bigger small island
+
+
+- 🔭 I’m currently a Front End Developer
+- ⚡ Fun fact: Love a random miscelleanous challenges.
