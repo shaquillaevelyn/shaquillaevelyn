@@ -1,6 +1,6 @@
 [Banner](./tech.png)
 
-
+<div align="center">
 ### bio
 
 #### Shaquilla.
@@ -10,7 +10,7 @@ Starting as Technical Consulting graduate scheme, I strived to find my "thing"- 
 </br>
 I couldnt be happier.
 
-
+</div>
 
 ###  fun facts
 #### 🏝 small island girl 
