@@ -1,6 +1,7 @@
 [Banner](./tech.png)
 
 <div align="center">
+  
 ### bio
 
 #### Shaquilla.
