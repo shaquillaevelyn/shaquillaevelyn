@@ -1,3 +1,5 @@
+## Hey, It's Shaquilla 💁🏾‍♀️✨
+
 ![blurry blue banner](blurry.png)
 
 <div align="justify">
@@ -13,12 +15,17 @@ And I couldnt be happier.
 
 <hr>
 
+### online 
 
-### watch this space for updates
-
-</div>
-
+‣ [LinkedIn](https://www.linkedin.com/in/shaquillaevelynjohnson/)
 
 
 <hr>
 
+</div>
+
+
+<div align="center">
+
+##### watch this space for updates
+</div>
