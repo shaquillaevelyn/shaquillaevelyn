@@ -1,4 +1,4 @@
-[Banner](./tech.png)
+![blurry blue banner](blurry.png)
 
 <div align="justify">
   
@@ -11,17 +11,14 @@ Starting as Technical Consulting graduate scheme, I strived to find my "thing"- 
 </br></br>
 And I couldnt be happier.
 
+<hr>
+
+
+### watch this space for updates
+
 </div>
 
-<hr>
-
-
 
 
 <hr>
-
-###  So, what's next?
-
-- 🇫🇷 Becoming a proficient French Speaker!
-- 👩🏾‍💻 Full Stack Everything
 
