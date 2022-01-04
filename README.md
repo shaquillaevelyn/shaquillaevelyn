@@ -13,6 +13,7 @@ Starting as Technical Consulting graduate scheme, I strived to find my "thing"- 
 </br></br>
 And I couldnt be happier.
 
+
 <hr>
 
 ### online 
